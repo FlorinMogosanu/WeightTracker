@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weight Tracker</string>
+    <string name="reminder_channel_name">Daily Weight Reminders</string>
+    <string name="reminder_channel_description">Notifications reminding you to log your daily weight measurement</string>
+    <string name="reminder_notification_title">Time to log your weight</string>
+    <string name="reminder_notification_content">Consistency is key to tracking your health trends. Tap to log today\'s entry.</string>
+</resources>
