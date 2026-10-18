@@ -1,5 +1,10 @@
 # WeightTracker Android 📱⚖️
 
+> ⚡ **100% Fully Vibe Coded App**  
+> Built entirely through AI pair-programming and natural-language vibe coding—from Clean Architecture scaffolding, Room SQLite database, and Jetpack Compose Material 3 UI, to live wireless ADB logcat diagnosis on a physical Galaxy S26 Ultra and fine-tuned gesture behaviors.
+
+---
+
 A modern, offline-first native Android Weight Tracker built with **Jetpack Compose**, **Material 3**, and **Clean Architecture**. Designed for daily personal tracking and couples, supporting two independent local profiles with zero cloud dependency.
 
 ---
@@ -29,6 +34,7 @@ A modern, offline-first native Android Weight Tracker built with **Jetpack Compo
 - **Preferences:** Jetpack DataStore Preferences
 - **Background Tasks:** AndroidX WorkManager
 - **Navigation:** Navigation Compose
+- **Development Style:** 100% Vibe Coded 🤖✨
 
 ---
 
@@ -42,8 +48,8 @@ A modern, offline-first native Android Weight Tracker built with **Jetpack Compo
 ### CLI Build
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd WeightTrackerAndroid
+git clone https://github.com/FlorinMogosanu/WeightTracker.git
+cd WeightTracker
 
 # Build debug APK
 ./gradlew assembleDebug
